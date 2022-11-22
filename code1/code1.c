@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//Code that prints the word hello to the terminal.
 #include <stdio.h>
 
 void code1(void)
@@ -28,7 +27,7 @@ void code1(void)
     }
 }
 
-int main(void)
+int main()
 {
     code1();
 }
