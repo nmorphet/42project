@@ -10,6 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+//This should start from b and not a
 #include <stdio.h>
 
 void code3(void)
@@ -17,7 +18,7 @@ void code3(void)
     int i;
     char *letter;
 
-    i = 0;
+    i = 1;
     letter = "abcde";
 
     while (i < 5)
