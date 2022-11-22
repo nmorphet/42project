@@ -10,7 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-//This code prints world to the output
 #include <stdio.h>
 
 void code2(void)
@@ -28,7 +27,7 @@ void code2(void)
     }
 }
 
-int main(void)
+int main()
 {
     code2();
 }
